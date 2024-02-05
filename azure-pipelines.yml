@@ -18,7 +18,7 @@ variables:
   environmentName: 'Mywebapplication02'
 
   # Agent VM image name
-  vmImageName: 'Myagent'
+  vmImageName: 'ubuntu-latest'
 
 stages:
 - stage: Build
